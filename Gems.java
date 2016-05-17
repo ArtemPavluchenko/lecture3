@@ -5,7 +5,7 @@ import java.math.RoundingMode;
 /**
  * Created by Gwindblaid on 16.05.2016.
  */
-
+//
 public class Gems {
     protected int id;
     protected double weight;
